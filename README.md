@@ -1,7 +1,8 @@
 # Sunfounder_LCD_Nokia_5110
 ----------
-This is a LCD Nokia 5110 Python Script by SunFounder
+This is a LCD Nokia 5110 Python Script for Raspberry Pi by SunFounder.
 It rely on Adafruit_Nokia_LCD library.
+You can buy the module from our website: [www.sunfounder.com](www.sunfounder.com) 
 
 ###Instruction:
 1.Download and install the library:
