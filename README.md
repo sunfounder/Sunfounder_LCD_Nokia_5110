@@ -13,7 +13,7 @@ It rely on Adafruit_Nokia_LCD library.
 'sudo apt-get install python-imaging'
 
 2.Download the source code:
-'git clone'
+'git clone https://github.com/sunfounder/Sunfounder_LCD_Nokia_5110.git'
 3.Now run the script!
-'cd '
+'cd Sunfounder_LCD_Nokia_5110'
 'sudo python nokia5110.py'
