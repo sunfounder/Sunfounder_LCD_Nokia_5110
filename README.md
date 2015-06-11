@@ -5,7 +5,7 @@ It rely on Adafruit_Nokia_LCD library.
 
 ###Instruction:
 1.Download and install the library:
-'git clone https://github.com/adafruit/Adafruit_Nokia_LCD.git'
+<git clone https://github.com/adafruit/Adafruit_Nokia_LCD.git>
 
 'cd Adafruit_Nokia_LCD'
 'sudo apt-get install python-dev'
